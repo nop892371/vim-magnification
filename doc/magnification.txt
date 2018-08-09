@@ -1,0 +1,25 @@
+*magnification* Temporarily magnify a window
+
+                              vim-magnigication
+
+==============================================================================
+INTRODUCTION                                    *magnification-introduction*
+
+vim-magnigication is a plug-in that temporarily magnifies a window.
+
+==============================================================================
+OPTIONS                                         *magnification-options*
+
+                                                *g:maginification_key*
+g:maginification_key
+        Key to toggle magnification
+
+==============================================================================
+KEY MAPPINGS                                    *magnification-mappings*
+
+,w  <Plug>(magnification_sample)
+        Toggle magnification.
+        Keymap can be changed with |g:maginification_key|
+
+
+vim:tw=78:ts=8:ft=help:et:
