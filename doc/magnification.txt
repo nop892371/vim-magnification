@@ -17,7 +17,7 @@ g:maginification_key
 ==============================================================================
 KEY MAPPINGS                                    *magnification-mappings*
 
-,w  <Plug>(magnification_sample)
+,w  <Plug>(maginification_toggle)
         Toggle magnification.
         Keymap can be changed with |g:maginification_key|
 
